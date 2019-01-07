@@ -1,0 +1,86 @@
+@media screen and(max-width:500){
+	
+	
+}
+body {
+    background-color:lightGray;
+    font-family: Tahoma, Verdana, Arial, serif;
+}
+/*
+HTML { 
+ background:url(Picture/BUGATTI.jpg) no-repeat;
+ background-position:0% 100%;
+ background-color:#B86F8A;
+  
+ }*/
+p{
+margin-top:5px;
+/*border: 1px dashed #666666;*/
+font-size:84%;
+color:#657;
+}
+h1{ 
+font-size:100%;
+padding:15px;
+text-align:center;
+color:green;
+}
+div .menu{
+background-color:#B86F8A;
+border: 3px solid #B89F8A;
+border-radius: 15px;
+text-align:center;
+height:50px;
+
+}
+.footer p{
+background-color:red;
+border: 3px solid yellow;
+text-align:center;
+height:50px;
+color:green;
+
+}
+.slick-block {
+    height:150px;
+}
+
+div .container-fluid div{
+	padding: 5px;
+	background-color:#B86F8A;
+	border: 3px solid #666666;
+}
+
+
+/*
+div a{
+	
+	width:100px;
+}
+a {color:#000000; text-decoration: underline;}
+a:hover {color:#110000;}
+
+body{
+	background:url(Дизайн автомобилей серийного производства\BUGATTI.jpg) no-repeat;
+	background-position:0% 0%;
+	font-family:Tahoma, Verdana, Arial, serif;
+}
+
+
+.menu ul li a:hover{
+
+color:#fff;
+background-color:#000;
+}
+
+
+
+
+h2{ 
+font-size:150%;
+padding:5px 0 0 10px;
+color:#208036;
+}
+*/
+
+}
