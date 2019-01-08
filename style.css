@@ -3,6 +3,7 @@
 	
 }
 body {
+background:url(Picture/BUGATTI.jpg) no-repeat;
     background-color:lightGray;
     font-family: Tahoma, Verdana, Arial, serif;
 }
@@ -19,6 +20,13 @@ margin-top:5px;
 font-size:84%;
 color:#657;
 }
+div .container{
+	padding: 5px;
+	height:350px;
+
+	border: 3px solid #666666;
+}
+
 h1{ 
 font-size:100%;
 padding:15px;
@@ -61,7 +69,7 @@ a {color:#000000; text-decoration: underline;}
 a:hover {color:#110000;}
 
 body{
-	background:url(Р”РёР·Р°Р№РЅ Р°РІС‚РѕРјРѕР±РёР»РµР№ СЃРµСЂРёР№РЅРѕРіРѕ РїСЂРѕРёР·РІРѕРґСЃС‚РІР°\BUGATTI.jpg) no-repeat;
+	background:url(Дизайн автомобилей серийного производства\BUGATTI.jpg) no-repeat;
 	background-position:0% 0%;
 	font-family:Tahoma, Verdana, Arial, serif;
 }
