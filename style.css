@@ -1,9 +1,9 @@
-@media screen and(max-device-width:450){
+@media screen and (max-device-width:450рх) {
 	
 	body {
 		background:url(Picture/BUGATTI.jpg) no-repeat;
 		background-size: contain;
-		margin: 170px 0 0 0; /* РЎРґРІРёРіР°РµРј РІРІРµСЂС… */              
+		margin: 170px 0 0 0; /* Сдвигаем вверх */              
 		background-color:#2b302c;
 		font-family: Tahoma, Verdana, Arial, serif;
 	}
@@ -64,7 +64,7 @@
 	}
 }
 
-@media screen and(min-device-width:451){
+@media screen and (min-device-width:450px) {
 	
 	body {
 		background:url(Picture/BUGATTI.jpg) no-repeat;
