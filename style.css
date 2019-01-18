@@ -1,7 +1,7 @@
 @media screen and (max-device-width:450px){
 	
 	body {
-		background:url(Picture/BUGATTI.jpg) no-repeat;
+		background:url(BUGATTI.jpg) no-repeat;
 		background-size: contain;
 		margin: 170px 0 0 0; /* Сдвигаем вверх */              
 		background-color:#2b302c;
@@ -67,7 +67,7 @@
 @media screen and (min-device-width:451px){
 	
 	body {
-		background:url(Picture/BUGATTI.jpg) no-repeat;
+		background:url(BUGATTI.jpg) no-repeat;
 		background-size: contain;
 		background-color:#2b302c;
 		font-family: Tahoma, Verdana, Arial, serif;
